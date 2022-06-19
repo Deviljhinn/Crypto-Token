@@ -1,0 +1,1 @@
+These are a bunch of random Smart Contracts I've made just to get my feet wet. I've played Cryptozombies multiple times and use OpenZeppelin for majority of the contracts.
